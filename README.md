@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://c.tenor.com/ciegZ6-LGR4AAAAi/cool-link-shades.gif" width="60">
 Olá sou Gabriel Monedeiro, estudante de programação!  <img src="https://giffiles.alphacoders.com/443/44306.gif" width="80">
 </h1>
 
@@ -23,7 +23,7 @@ Olá sou Gabriel Monedeiro, estudante de programação!  <img src="https://giffi
   <img align="center" alt="Moner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Moner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Moner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Moner-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/67/78/6b/67786b2a779fb1f5e59abad7e1b17e0e.jpg">
+  <img align="right" alt="Moner-pic" height="150" style="border-radius:50px;" src="https://freepngimg.com/save/28135-the-legend-of-zelda-logo-clipart/1104x668">
 </div>
   
   ##
