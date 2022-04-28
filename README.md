@@ -13,7 +13,7 @@ Olá sou Gabriel Monedeiro, estudante de programação!  <img src="https://giffi
 <div align="center">
   <a href="https://github.com/0moner">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0moner&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0moner&layout=compact&langs_count=7&theme=dark">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0moner&layout=compact&langs_count=7&theme=dark">
 
 </div>
 <div style="display: inline_block"><br>
