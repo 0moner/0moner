@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://c.tenor.com/ciegZ6-LGR4AAAAi/cool-link-shades.gif" width="50">
-Olá sou Gabriel Monedeiro, estudante de programação!  <img src="https://giffiles.alphacoders.com/443/44306.gif" width="80">
+Olá sou Gabriel Monedeiro, estudante de programação!  <img src="https://giffiles.alphacoders.com/443/44306.gif" width="70">
 </h1>
 
 - 🔭 Atualmente **ainda** não trabalho na área ...
