@@ -38,6 +38,6 @@ Olá sou Gabriel Monedeiro, estudante de programação!  <img src="https://giffi
   <a href="https://www.linkedin.com/in/gabriel-monedeiro-ab575b236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
     
-![Snake animation](https://github.com/0moner/0moner/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=0moner&repo=0moner&theme=react)](https://github.com/0moner/0moner)
  
 </div>
