@@ -7,9 +7,7 @@
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0moner&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Monedeiro github stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0moner&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-  
   ##
-  
   <br>
 <div  align="center">
   <div style="display: inline_block"><br>
@@ -22,7 +20,7 @@
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 </div>
-
+ ##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=0moner&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
