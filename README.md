@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Monedeiro;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
  <div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0moner&show_icons=true&count_private=true&hide_border=true&title_color=fffff&icon_color=0000ff&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Monedeiro github stats" /> 
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0moner&show_icons=true&count_private=true&hide_border=true&title_color=fffff&icon_color=fffff&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Monedeiro github stats" /> 
   <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0moner&layout=compact&hide_border=true&title_color=fffff&text_color=fffff&bg_color=0d1117" />
 </div>
 
