@@ -4,8 +4,8 @@
 
 <div>
  <div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0moner&show_icons=true&count_private=true&hide_border=true&title_color=fffff&icon_color=0088ff&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Monedeiro github stats" /> 
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0moner&layout=compact&hide_border=true&title_color=0088ff&text_color=0088ff&bg_color=0d1117" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0moner&show_icons=true&count_private=true&hide_border=true&title_color=0088ff&icon_color=0088ff&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Monedeiro github stats" /> 
+  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0moner&layout=compact&hide_border=true&title_color=0088ff&text_color=&bg_color=0d1117" />
 </div>
 
 ##
